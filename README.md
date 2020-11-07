@@ -9,3 +9,5 @@ crux of our proposal is to reduce the exorbitantly high ratio of causalities to 
 performing a timely emergency act. The system is crafted in a sophisticated manner in order to cater
 to the requirements of both two-wheelers and four-wheelers. It enables the user to stay connected
 with his acquaintances at any point of time during his journey. 
+
+Install StarUml
