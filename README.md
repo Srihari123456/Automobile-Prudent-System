@@ -10,4 +10,4 @@ performing a timely emergency act. The system is crafted in a sophisticated mann
 to the requirements of both two-wheelers and four-wheelers. It enables the user to stay connected
 with his acquaintances at any point of time during his journey. 
 
-Install StarUml
+Install StarUml from https://staruml.io/download
