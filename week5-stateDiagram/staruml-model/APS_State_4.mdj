@@ -949,7 +949,7 @@
 												"$ref": "AAAAAAF1VLp2ZlRt4Rk="
 											},
 											"edgePosition": 1,
-											"text": "Vehicle Stops [when(frequency<1200MHz)]"
+											"text": "Vehicle Stops [when(frequency<Cut-off)]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1137,7 +1137,7 @@
 												"$ref": "AAAAAAF1asYT7Eg8vw8="
 											},
 											"edgePosition": 1,
-											"text": " [when(frequency>1200MHz)]"
+											"text": " [when(frequency>Cut-off)]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1306,7 +1306,7 @@
 									"top": 288,
 									"width": 168,
 									"height": 81,
-									"text": "Change Event which gets triggered in case the frequency of the received signal crosses 1200 MHz"
+									"text": "Change Event which gets triggered in case the frequency of the received signal crosses the cut-off"
 								},
 								{
 									"_type": "UMLNoteLinkView",
@@ -1483,7 +1483,7 @@
 									"target": {
 										"$ref": "AAAAAAF1VKjyLFKzrWY="
 									},
-									"guard": "when(frequency<1200MHz)",
+									"guard": "when(frequency<Cut-off)",
 									"triggers": [
 										{
 											"_type": "UMLEvent",
@@ -1530,7 +1530,7 @@
 									"target": {
 										"$ref": "AAAAAAF1VKenYlJZRZ8="
 									},
-									"guard": "when(frequency>1200MHz)"
+									"guard": "when(frequency>Cut-off)"
 								},
 								{
 									"_type": "UMLTransition",
