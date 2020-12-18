@@ -1,13 +1,17 @@
 # Automobile-Prudent-System
-21st century can be infamously described as the era of road accidents and the number of causalities
-are rising at a dangerously alarming rate. Our project focusses on tackling this very issue by
-attacking it at its grassroots level. We propose a system that mandates the driver/cabbie to adhere to
-the basic safety measures i.e, a system that compels the drive to wear the helmet/seatbelt in order to
-get the vehicle on the go. Our system works based on the collaboration of a number of sensors and a
-meticulously designed circuit which is integrated with an interactive easy-to-use application. The
-crux of our proposal is to reduce the exorbitantly high ratio of causalities to accidents by
-performing a timely emergency act. The system is crafted in a sophisticated manner in order to cater
-to the requirements of both two-wheelers and four-wheelers. It enables the user to stay connected
-with his acquaintances at any point of time during his journey. 
+ Safety within automobiles is an aspect that can never be guaranteed no matter how sophisticated and advanced
+their core design is. This is an extremely vital problem that can be categorized as large-scale primarily because the number
+of automobiles plying on the road currently is massive and the numbers are expected to grow rampantly in the future. The
+pivotal reasons that deteriorate safety and increase the fatalities to accidents ratio are over speeding, driving distraction
+due to usage of mobiles, unconscious driving, defying safety rules, lack of prompt medical attention, etc. To come around
+all these, we have designed a system that allows only a sober driver who wears his helmet/seat belt to start the vehicle and
+once he does, the vehicle is being constantly monitored throughout the journey and the rider’s acquaintances can be updated
+of the same through an interactive application. Rider’s calls are being intercepted all through the journey and he is blocked
+from attending them post which he is prompted to bring the vehicle to a halt, to attend the call. 
+This is achieved using a callinterceptor module which uses Bluetooth technology and has a speaker in-built. The driver is also continuously notified
+whenever his speed crosses the accepted limit. Additionally, an injured driver lying on the road is forwarded to the right
+medical support within the stipulated time by informing his location to the emergency helpline workers. The application
+also fills the gap between the driver and the service provider by providing a multitude of service options so that the process
+of vehicle service doesn’t get tedious.
 
 Install StarUml from https://staruml.io/download
